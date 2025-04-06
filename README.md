@@ -11,6 +11,8 @@ Python, Java, C++
 Pulsar Virtual Env,
 The Pelican programming language
 
+## My email zeroqxq@ya.ru
+
 <!--
 **zeroqxq/zeroqxq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
