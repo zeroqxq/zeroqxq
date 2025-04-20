@@ -8,8 +8,8 @@ Hello everyone, my name is zero.
 Python, Java, C++
 
 ## I develop projects such as:
-Pulsar Virtual Env,
-The Pelican programming language
+[Pulsar Virtual Env](https://github.com/PulsarPrograms/PulsarVenv),
+[The Pelican programming language](https://github.com/AvesPelican/Pelican)
 
 ## My email zeroqxq@ya.ru
 
