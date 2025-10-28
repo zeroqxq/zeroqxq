@@ -5,7 +5,7 @@
 # Hi there 👋
 Hello everyone, my name is zero. 
 ## My programming languages:
-Python,С++, Go
+Python, С++, Go
 
 
 ## My email zeroqxq@ya.ru
