@@ -5,11 +5,8 @@
 # Hi there 👋
 Hello everyone, my name is zero. 
 ## My programming languages:
-Python, Java, C++
+Python,С++, Go
 
-## I develop projects such as:
-[Pulsar Virtual Env](https://github.com/PulsarPrograms/PulsarVenv),
-[The Pelican programming language](https://github.com/AvesPelican/Pelican)
 
 ## My email zeroqxq@ya.ru
 
