@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="https://t.me/zeroqxqbio" target="_blank">
+  <a href="https://t.me/zephybio" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegarm"  />
   </a>
   
