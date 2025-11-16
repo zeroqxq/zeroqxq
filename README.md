@@ -5,12 +5,20 @@
 
 
 <div align="center">
-  <a href="https://t.me/zephybio" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegarm"  />
-  </a>
+    <img src="https://img.shields.io/github/followers/zeroqxq?color=236ad3&style=for-the-badge&logo=github&label=Follow" height="25" alt="follow"  />
+    <img src="https://img.shields.io/github/stars/zeroqxq?color=236ad3&label=Stars&style=for-the-badge" height="25" alt="stars"  />
+    <img src="https://komarev.com/ghpvc/?username=zeroqxq&style=for-the-badge&color=236ad3" height="25" alt="profile views"  />
   
 </div>
 
+<div align="center">
+    <a href="https://t.me/zephybio">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegarm"  />
+    </a>
+  
+</div>
+
+  
 ### About me
 
 - 🔭 I’m currently working on **Nothing** 
