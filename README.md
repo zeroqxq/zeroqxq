@@ -11,13 +11,38 @@
   
 </div>
 
-###
+### About me
+
+- 🔭 I’m currently working on **Nothing** 
+
+- 🌱 I’m currently learning **Go**
+
+- 👨‍💻 All of my projects are available at **github**
+
+### Languages & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" wight="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" wight="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="golang" wight="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" title="bash" wight="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" title="python" wight="40" height="40"/>
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=cpp" title="cpp" wight="40" height="40"/>
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=go" title="golang" wight="40" height="40"/>
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=vscode" title="vscode" wight="40" height="40"/>
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=git" title="git" wight="40" height="40"/>
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=arch" title="archlinux" wight="40" height="40"/>
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=linux" title="linux" wight="40" height="40"/>
+  <img width="12" />
+  
 </div>
 
 
