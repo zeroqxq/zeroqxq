@@ -62,10 +62,10 @@
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeroqxq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zeroqxq&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=2" alt="GitHub stats" />
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqxq&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Top lang" height="150" /></a>
+    <img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=zeroqxq&langs_count=8&layout=donut-vertical&theme=radical" alt="Top lang" height="150" />
   </div>
 </details>
