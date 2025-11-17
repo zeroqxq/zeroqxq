@@ -57,15 +57,9 @@
 <details>
   <summary>Github Stats ⚡ </summary>
 
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=zeroqxq&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" /></a>
-  </div>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zeroqxq&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=2" alt="GitHub stats" />
   </div>
 
-  <div align="center">
-    <img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=zeroqxq&langs_count=8&layout=donut-vertical&theme=radical" alt="Top lang" height="150" />
-  </div>
 </details>
