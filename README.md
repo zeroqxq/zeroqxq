@@ -5,9 +5,12 @@
 
 
 <div align="center">
-    <img src="https://img.shields.io/github/followers/zeroqxq?color=236ad3&style=for-the-badge&logo=github&label=Follow" height="25" alt="follow"  />
-    <img src="https://img.shields.io/github/stars/zeroqxq?color=236ad3&label=Stars&style=for-the-badge" height="25" alt="stars"  />
-    <img src="https://komarev.com/ghpvc/?username=zeroqxq&style=for-the-badge&color=236ad3" height="25" alt="profile views"  />
+    <img src="https://img.shields.io/github/followers/zeroqxq?color=236ad3&style=flat&logo=github&label=Follow" height="25" alt="follow"  />
+    <img src="https://img.shields.io/github/stars/zeroqxq?color=236ad3&label=Stars&style=flat" height="25" alt="stars"  />
+    <img src="https://komarev.com/ghpvc/?username=zeroqxq&style=flat&color=236ad3" height="25" alt="profile views"  />
+    <a href="https://wakatime.com/@a116dcc1-2488-4700-9a91-31029bbacb69">
+      <img src="https://wakatime.com/badge/user/a116dcc1-2488-4700-9a91-31029bbacb69.svg" alt="Total time coded since Nov 8 2025" />
+    </a>
   
 </div>
 
