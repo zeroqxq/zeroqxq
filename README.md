@@ -24,9 +24,9 @@
   
 ### About me
 
-- 🔭 I’m currently working on **Nothing** 
+- 🔭 I’m currently working on **[zvl](https://github.com/zeroqxq/zvl)**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Nothing**
 
 - 👨‍💻 All of my projects are available at **github**
 
@@ -55,14 +55,3 @@
   <img width="12" />
   
 </div>
-
-
-<details>
-  <summary>Github Stats ⚡ </summary>
-
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeroqxq&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=2" alt="GitHub stats" />
-  </div>
-
-</details>
